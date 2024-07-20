@@ -1,0 +1,14 @@
+
+{
+    "headers": [
+        {
+            "source": "/:path*",
+            "headers": [
+                {
+                    "key": "Content-Type",
+                    "value": "text/html"
+                }
+            ]
+        }
+    ]
+}
